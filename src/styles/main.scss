@@ -1,0 +1,22 @@
+/**
+ * You can remove this file if you don't need any styles
+ * See default library styles: https://github.com/mnaoumov/obsidian-dev-utils/blob/main/src/styles/main.scss
+ * See available library css classes: https://github.com/mnaoumov/obsidian-dev-utils/blob/main/src/CssClass.ts
+ */
+
+.markdown-preview-view.is-readable-line-width .markdown-dayframe-prefix {
+  max-width: var(--file-line-width);
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.markdown-preview-view.is-readable-line-width .markdown-dayframe-suffix {
+  max-width: var(--file-line-width);
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.markdown-preview-sizer.markdown-preview-section {
+  padding-bottom: 0 !important;
+  min-height: auto !important;
+}
