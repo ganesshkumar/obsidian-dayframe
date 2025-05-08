@@ -5,5 +5,6 @@
   "id": "dayframe",
   "isDesktopOnly": false,
   "name": "Dayframe",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "minAppVersion": "1.8.10"
 }
